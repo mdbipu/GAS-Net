@@ -1,4 +1,4 @@
-# GAS-Net (Geometry / Attribute / Scene guided fusion) on top of the MAD+SAP baseline code
+# GAS-Net (Geometry / Attribute / Scene guided fusion) on top of the UpDown baseline code
 
 Drop these files over the baseline folder (or into a copy of it). `misc/util.py`, `cider-master/` and
 `coco-caption/` are the same as for the baseline and are found relative to this folder
